@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://nehouxaaxu.senkulpa.org/sitemap.xml
